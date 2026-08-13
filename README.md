@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/madhavgadge01/DSA-Questions/tree/master/0075-sort-colors) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/madhavgadge01/DSA-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/madhavgadge01/DSA-Questions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/madhavgadge01/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/madhavgadge01/DSA-Questions/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/1929-concatenation-of-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/madhavgadge01/DSA-Questions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/madhavgadge01/DSA-Questions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/madhavgadge01/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/madhavgadge01/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [1512-number-of-good-pairs](https://github.com/madhavgadge01/DSA-Questions/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/madhavgadge01/DSA-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhavgadge01/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/madhavgadge01/DSA-Questions/tree/master/0414-third-maximum-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/madhavgadge01/DSA-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/madhavgadge01/DSA-Questions/tree/master/1512-number-of-good-pairs) |
@@ -88,4 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/madhavgadge01/DSA-Questions/tree/master/0441-arranging-coins) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

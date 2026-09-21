@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/madhavgadge01/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/madhavgadge01/DSA-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0441-arranging-coins](https://github.com/madhavgadge01/DSA-Questions/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/madhavgadge01/DSA-Questions/tree/master/1512-number-of-good-pairs) |

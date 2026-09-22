@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/madhavgadge01/DSA-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhavgadge01/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/madhavgadge01/DSA-Questions/tree/master/0414-third-maximum-number) |
+| [0832-flipping-an-image](https://github.com/madhavgadge01/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/madhavgadge01/DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/madhavgadge01/DSA-Questions/tree/master/1207-unique-number-of-occurrences) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/madhavgadge01/DSA-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/madhavgadge01/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/madhavgadge01/DSA-Questions/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/madhavgadge01/DSA-Questions/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/madhavgadge01/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/madhavgadge01/DSA-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/madhavgadge01/DSA-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/madhavgadge01/DSA-Questions/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/madhavgadge01/DSA-Questions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
